@@ -22,10 +22,10 @@ Ferramenta de linha de comando desenvolvida em Python para processar arquivos CS
 
 ## Estrutura do Projeto
 
-src/vendas_cli/
-├── cli.py
-├── parser.py
-├── core.py
+src/vendas_cli/<br>
+├── cli.py<br>
+├── parser.py<br>
+├── core.py<br>
 └── output.py
 
 ---
