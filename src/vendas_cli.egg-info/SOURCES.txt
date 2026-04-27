@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/vendas_cli/__init__.py
+src/vendas_cli/cli.py
+src/vendas_cli/core.py
+src/vendas_cli/output.py
+src/vendas_cli/parser.py
+src/vendas_cli.egg-info/PKG-INFO
+src/vendas_cli.egg-info/SOURCES.txt
+src/vendas_cli.egg-info/dependency_links.txt
+src/vendas_cli.egg-info/entry_points.txt
+src/vendas_cli.egg-info/top_level.txt
+tests/test_core.py
